@@ -38,7 +38,8 @@ This project demonstrates practical usage of **Data Structures and Algorithms** 
 
 ---
 
-## Project Structure
+## 📁 Project Structure
+
 Bank-Token-System/
 │
 ├── src/
@@ -60,15 +61,15 @@ Bank-Token-System/
 
 ---
 
-### How to Compile and Run
+## How to Compile and Run
 
-## Step 1: Navigate to project directory
+# Step 1: Navigate to project directory
 cd Bank-Token-System
 
-## Step 2: Compile the program
+# Step 2: Compile the program
 g++ -Iinclude src/*.cpp -o bank
 
-## Step 3: Run the program
+# Step 3: Run the program
 ./bank
 OR
 bank.exe
