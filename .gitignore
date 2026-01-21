@@ -1,0 +1,15 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+bank
+
+# VS Code settings (optional)
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
