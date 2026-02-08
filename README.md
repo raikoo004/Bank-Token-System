@@ -213,10 +213,10 @@ This project demonstrates:
  * Statistical reports (average waiting time)
 
 ## 👨‍💻 Authors
-Ankit Stha
-Krishna Mohan Sah
-Utsaha Karki
-Samyog Rayamajhi
+* Ankit Stha
+* Krishna Mohan Sah
+* Utsaha Karki
+* Samyog Rayamajhi
 
 
 ## 📄 License
