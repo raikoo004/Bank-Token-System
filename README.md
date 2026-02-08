@@ -1,4 +1,4 @@
-#🏦 Bank Token Management System (Priority Queue – C++)
+##🏦 Bank Token Management System (Priority Queue – C++)
 
 A console-based Bank Token Management System implemented in C++ using a Priority Queue.
 This project simulates how banks manage customer service tokens by prioritizing urgent services over normal ones, reflecting real-world banking operations.
