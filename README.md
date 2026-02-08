@@ -80,7 +80,7 @@ The system follows a priority-based scheduling approach:
 cd Bank-Token-System
 g++ -Iinclude src/*.cpp -o bank
 ./bank
-
+```
 
 **Windows(CMD/PowerShell):**
 ```Powershell
