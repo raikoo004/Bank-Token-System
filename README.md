@@ -40,9 +40,9 @@ The system follows a priority-based scheduling approach:
    * A custom comparator ensures correct ordering.
 
 4. **Customer Service**:
-* The highest-priority token is extracted.
-* Service start and end times are recorded.
-* Customer details are displayed.
+  * The highest-priority token is extracted.
+  * Service start and end times are recorded.
+  * Customer details are displayed.
  
 ### The Technical Stack
 
