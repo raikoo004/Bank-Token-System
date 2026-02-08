@@ -225,6 +225,5 @@ This project is developed strictly for academic and educational purposes as a DS
 
 ---------
 
-**Made using** <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="++"/>
 
 **DSA Mini Project** - Priority Queue Implementation
